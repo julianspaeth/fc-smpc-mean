@@ -1,0 +1,11 @@
+fc_template:
+  local_dataset:
+    data: "data.csv"
+
+  logic:
+    mode: "file"
+    dir: "."
+
+
+  results:
+    mean: "mean.csv"
